@@ -1,4 +1,4 @@
-// esto es una prueba
+// borre la prueba
 
 namespace RAG;
 
