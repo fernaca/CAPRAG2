@@ -1,4 +1,3 @@
-// borre la prueba
 
 namespace RAG;
 
@@ -17,8 +16,6 @@ entity Files : managed {
     description      : String(255) @mandatory @title : 'Descripción del Libro';  // Descripción del File
     chunks           : Association to many Chunks on chunks.fileId = $self; // Relación con los chunks
 }
-
-
 
 
 /**
