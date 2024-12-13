@@ -1,0 +1,5 @@
+chunkId,sequenceNumber,data,vector,fileId_fileId
+c1,1,Parrafo 1,111020102021,f1
+c2,2,Parrafo 2,12221020102021,f1
+c3,3,Parrafo 3,12221020102021,f1
+c4,1,Parrafo 1 Redmine,12221020102021,f2
